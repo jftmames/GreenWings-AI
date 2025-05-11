@@ -56,7 +56,7 @@ elif seccion == "Contacto":
     Escríbenos:
 
     📧 contacto@greenwings.ai  
-    🌐 www.greenwings.ai
+
     """)
 
 # Footer
